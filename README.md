@@ -9,9 +9,9 @@
 
 - 💬 ... <i> Restructuring and Maintenance of Michelle Mungai ongoing </i> ...
 
-- 📫 How to reach me **chellymungai@gmail.com**
+- 📫 How to reach me: **chellymungai@gmail.com**
 
-- ⚡ Fun fact **An avid lover of Murder Mystery Documentaries**
+- ⚡ Fun fact: **An avid lover of Murder Mystery Documentaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +36,6 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelle-mungai&show_icons=true&locale=en&layout=compact" alt="michelle-mungai" /></p>
-
-<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelle-mungai&show_icons=true&locale=en" alt="michelle-mungai" /></p>
 
