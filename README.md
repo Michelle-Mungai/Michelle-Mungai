@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **chellymungai@gmail.com**
 
-- ⚡ Fun fact: **An avid lover of Murder Mystery Documentaries**
+- ⚡ Fun fact: **Any novel by James Patterson, sign me up!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
